@@ -1,5 +1,4 @@
-Ray Ellison A. Quiamco
-BSIT
+
 
 <!---
 rayellison29/rayellison29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
